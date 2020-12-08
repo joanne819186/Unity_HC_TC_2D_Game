@@ -300,3 +300,10 @@ MonoBehaviour:
   weight: 1.5
   brand: BMW
   hasWindow: 1
+  soundExplosion: {fileID: 8300000, guid: 2c292b6d6c8587045b0325ce7ae281ca, type: 3}
+  spriteA: {fileID: 0}
+  goA: {fileID: 0}
+  soundExplosionA: {fileID: 0}
+  soundExplosionB: {fileID: 0}
+  soundExplosionC: {fileID: 0}
+  soundExplosionD: {fileID: 0}
